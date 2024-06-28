@@ -1,6 +1,3 @@
-# FedCB
-Stealing Knowledge from Pre-trained Language Models for Federated Classifier Debiasing (MICCAI 2024)
-
 # Stealing Knowledge from Pre-trained Language Models for Federated Classifier Debiasing
 This repository is an official PyTorch implementation of the paper **"Stealing Knowledge from Pre-trained Language Models for Federated Classifier Debiasing"** from MICCAI 2024 (Early Accept).
 
