@@ -20,7 +20,6 @@ If you find our work useful in your research or publication, please cite our wor
   title={Stealing Knowledge from Pre-trained Language Models for Federated Classifier Debiasing},
   author={Zhu, Meilu and Yang, Qiushi and Gao, Zhifan and Liu, Jun and Yuan, Yixuan},
   booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  year={2024},
-  organization={Springer}
+  year={2024}
 }
 ```
