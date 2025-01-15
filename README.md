@@ -12,7 +12,7 @@ With this insight, we propose a novel approach named Federated Classifier deBias
 
 
 ## Running
-The implementation details can be found at [FedBM](https://github.com/CUHK-AIM-Group/FedBM).
+The implementation details can be found in [FedBM](https://github.com/CUHK-AIM-Group/FedBM) project.
 
 ## Citation
 If you find our work useful in your research or publication, please cite our work:
